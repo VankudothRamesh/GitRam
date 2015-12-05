@@ -4,6 +4,7 @@ this is my third fiel and i want to commit it
 
 
 chnage in third
+<<<<<<< HEAD
 
 
 
@@ -21,3 +22,5 @@ asdf
 
 
 asdf
+=======
+>>>>>>> parent of 0955ab4...  modified the third file for the second time
