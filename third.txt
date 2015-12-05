@@ -4,3 +4,7 @@ this is my third fiel and i want to commit it
 
 
 chnage in third
+
+
+
+let me edit it manually
